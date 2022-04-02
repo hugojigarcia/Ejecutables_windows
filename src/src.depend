@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648927882 source:c:\users\hugoj\git\ejecutables_windows\src\displaydns.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
