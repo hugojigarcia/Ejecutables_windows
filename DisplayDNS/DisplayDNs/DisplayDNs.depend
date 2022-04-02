@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638582258 source:c:\users\hugoj\hugo\programación\# proyectos\displaydns\displaydns\displaydns.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
